@@ -1,3 +1,7 @@
 gfdgfdgfd
+<<<<<<< HEAD
 
 павпавпавпав
+=======
+hfggfgfg
+>>>>>>> 77ab755e2ce82cc826c1a5ec2d84ae3af95e1c26
